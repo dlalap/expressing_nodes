@@ -1,5 +1,7 @@
 # Expressing Nodes in Python
 
+This accompanies my blog post on expressing nodes in Python [here](https://www.ohnoibrokeit.com/home/expressing-nodes-in-python).
+
 ### How to use this program
 
 From your terminal, enter the following.
